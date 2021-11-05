@@ -10,8 +10,8 @@ from src.follow_protocol import follow_protocol
 from src.unfollow_protocol import unfollow_protocol
 #Ask User Login VARs
 print("Please Login, This Bot Requires Your Login Info, So Instagram Can't Detect its a Bot.")
-UserPreDefined = input('Enter Your Username: ')
-PassPreDefined = input('Enter Your Password: ')
+UserPreDefined = input('gaming_bucko: ')
+PassPreDefined = input('holyangels98: ')
 print("\n")
 
 ###Dont Touch the Code Above Or it Can Break the Whole Bot.
